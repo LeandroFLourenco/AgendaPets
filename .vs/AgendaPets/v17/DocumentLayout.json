@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\AgendaPets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|c:\\git\\agendapets\\agendapets\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|solutionrelative:agendapets\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|c:\\git\\agendapets\\agendapets\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|solutionrelative:agendapets\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|c:\\git\\agendapets\\agendapets\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|solutionrelative:agendapets\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|c:\\git\\agendapets\\agendapets\\data\\agendamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|solutionrelative:agendapets\\data\\agendamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|c:\\git\\agendapets\\agendapets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|solutionrelative:agendapets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|c:\\git\\agendapets\\agendapets\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|solutionrelative:agendapets\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|c:\\git\\agendapets\\agendapets\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49605947-427E-40D0-B943-8452B40E1A31}|AgendaPets\\AgendaPets.csproj|solutionrelative:agendapets\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "C:\\git\\AgendaPets\\AgendaPets\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "AgendaPets\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\git\\AgendaPets\\AgendaPets\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "AgendaPets\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:18:56.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\git\\AgendaPets\\AgendaPets\\appsettings.json",
+              "RelativeDocumentMoniker": "AgendaPets\\appsettings.json",
+              "ToolTip": "C:\\git\\AgendaPets\\AgendaPets\\appsettings.json",
+              "RelativeToolTip": "AgendaPets\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T15:16:09.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgendamentoRepository.cs",
+              "DocumentMoniker": "C:\\git\\AgendaPets\\AgendaPets\\Data\\AgendamentoRepository.cs",
+              "RelativeDocumentMoniker": "AgendaPets\\Data\\AgendamentoRepository.cs",
+              "ToolTip": "C:\\git\\AgendaPets\\AgendaPets\\Data\\AgendamentoRepository.cs",
+              "RelativeToolTip": "AgendaPets\\Data\\AgendamentoRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwGsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T22:16:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\git\\AgendaPets\\AgendaPets\\Models\\Agendamento.cs",
+              "RelativeDocumentMoniker": "AgendaPets\\Models\\Agendamento.cs",
+              "ToolTip": "C:\\git\\AgendaPets\\AgendaPets\\Models\\Agendamento.cs",
+              "RelativeToolTip": "AgendaPets\\Models\\Agendamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:28:31.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\git\\AgendaPets\\AgendaPets\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AgendaPets\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\git\\AgendaPets\\AgendaPets\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AgendaPets\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T23:27:42.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\git\\AgendaPets\\AgendaPets\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgendaPets\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\git\\AgendaPets\\AgendaPets\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AgendaPets\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T23:15:08.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\git\\AgendaPets\\AgendaPets\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgendaPets\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\git\\AgendaPets\\AgendaPets\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgendaPets\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:10:32.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

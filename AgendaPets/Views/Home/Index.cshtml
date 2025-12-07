@@ -1,0 +1,97 @@
+﻿@model List<Agendamento>
+
+@{
+    ViewBag.Title = "Agendamentos";
+}
+
+<h2>Agendamentos</h2>
+
+<!-- FORM DE CADASTRO / EDIÇÃO -->
+<form id="formAgendamento" method="post" action="/Agendamento/Salvar">
+    <input type="hidden" name="Id" id="Id" value="" />
+    <input type="text" name="NomePet" id="NomePet" placeholder="Nome do Pet" required />
+    <input type="text" name="NomeTutor" id="NomeTutor" placeholder="Nome do Tutor" required />
+
+    <select name="Especie" id="Especie" required>
+        <option value="">Espécie</option>
+        <option>Cachorro</option>
+        <option>Gato</option>
+        <option>Ave</option>
+        <option>Roedor</option>
+        <option>Outro</option>
+    </select>
+
+    <input type="text" name="Servico" id="Servico" placeholder="Serviço" required />
+
+    <input type="date" name="DataAgendamento" id="DataAgendamento" required />
+
+    <button type="submit">Salvar</button>
+    <button type="button" id="CancelarEdit" style="display:none;" onclick="limparForm()">Cancelar</button>
+</form>
+
+<br />
+
+<!-- LISTA DE AGENDAMENTOS -->
+<table border="1" cellpadding="6">
+    <tr>
+        <th>Pet</th>
+        <th>Tutor</th>
+        <th>Espécie</th>
+        <th>Serviço</th>
+        <th>Data</th>
+        <th>Ações</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.NomePet</td>
+            <td>@item.NomeTutor</td>
+            <td>@item.Especie</td>
+            <td>@item.Servico</td>
+            <td>@(item.DataAgendamento == DateTime.MinValue ? "" : item.DataAgendamento.ToString("yyyy-MM-dd"))</td>
+            <td>
+                <button type="button" class="btnEdit" 
+                        data-id="@item.Id" 
+                        data-nomepet="@item.NomePet" 
+                        data-nometutor="@item.NomeTutor" 
+                        data-especie="@item.Especie" 
+                        data-servico="@item.Servico" 
+                        data-dataagendamento="@(item.DataAgendamento == DateTime.MinValue ? "" : item.DataAgendamento.ToString("yyyy-MM-dd"))">
+                    Editar
+                </button>
+
+                <form method="post" action="/Agendamento/Deletar" style="display:inline;" onsubmit="return confirm('Excluir agendamento?');">
+                    <input type="hidden" name="id" value="@item.Id" />
+                    <button type="submit">Excluir</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+
+<script>
+    function limparForm() {
+        document.getElementById('Id').value = '';
+        document.getElementById('NomePet').value = '';
+        document.getElementById('NomeTutor').value = '';
+        document.getElementById('Especie').value = '';
+        document.getElementById('Servico').value = '';
+        document.getElementById('DataAgendamento').value = '';
+        document.getElementById('CancelarEdit').style.display = 'none';
+    }
+
+    document.querySelectorAll('.btnEdit').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            var ds = btn.dataset;
+            document.getElementById('Id').value = ds.id || '';
+            document.getElementById('NomePet').value = ds.nomepet || '';
+            document.getElementById('NomeTutor').value = ds.nometutor || '';
+            document.getElementById('Especie').value = ds.especie || '';
+            document.getElementById('Servico').value = ds.servico || '';
+            document.getElementById('DataAgendamento').value = ds.dataagendamento || '';
+            document.getElementById('CancelarEdit').style.display = 'inline';
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    });
+</script>

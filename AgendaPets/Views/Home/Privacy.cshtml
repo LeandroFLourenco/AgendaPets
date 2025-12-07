@@ -1,0 +1,18 @@
+﻿@model Agendamento
+
+<h2>Editar Agendamento</h2>
+
+<form method="post" action="/Agendamento/Edit">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <input type="text" name="NomePet" value="@Model.NomePet" required />
+    <input type="text" name="NomeTutor" value="@Model.NomeTutor" required />
+
+    <input type="text" name="Especie" value="@Model.Especie" required />
+    <input type="text" name="Servico" value="@Model.Servico" required />
+
+    <input type="date" name="DataAgendamento"
+           value="@Model.DataAgendamento.ToString("yyyy-MM-dd")" required />
+
+    <button type="submit">Salvar Alterações</button>
+</form>
