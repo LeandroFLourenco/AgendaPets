@@ -50,8 +50,7 @@
               "RelativeToolTip": "AgendaPets\\Controllers\\AgendamentoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T15:18:56.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T15:18:56.323Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "AgendaPets\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-07T15:16:09.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T15:16:09.006Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "AgendaPets\\Data\\AgendamentoRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwGsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T22:16:43.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T22:16:43.421Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "AgendaPets\\Models\\Agendamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T23:28:31.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T23:28:31.894Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "AgendaPets\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-04T23:27:42.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T23:27:42.087Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "AgendaPets\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T23:10:32.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T23:10:32.294Z"
             }
           ]
         }

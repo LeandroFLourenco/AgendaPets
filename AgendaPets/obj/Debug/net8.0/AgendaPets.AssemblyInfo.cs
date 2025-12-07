@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaPets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bdf84fc1d7757f94f30be24230d0dbbae65c90e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaPets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaPets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
