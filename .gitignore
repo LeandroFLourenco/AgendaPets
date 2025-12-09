@@ -1,0 +1,103 @@
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.app
+*.tmp
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# Test results
+TestResult*/
+[Tt]est[Rr]esult.xml
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Logs
+*.log
+logs/
+
+# Config backups
+*.config.user
+*.orig
+*.bak
+
+# ASP.NET Core
+wwwroot/lib/
+wwwroot/node_modules/
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+bower_components/
+
+# Publish outputs
+*.pubxml
+*.publishsettings
+
+# dotenv
+.env
+*.env
+
+# Azure
+PublishProfiles/
+*.azurePubxml
+
+# Certificates
+*.pfx
+*.pem
+*.key
+*.csr
+*.crt
+
+# Docker
+docker-compose.override.yml
+docker-compose.*.yml
+**/dockerfile*
+
+# Cache
+*.cache
+cache/
+
+# Auto-generated
+Generated_Code/
+
+# Temp data
+tmp/
+temp/
+*.tmp
+
+# JetBrains Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini

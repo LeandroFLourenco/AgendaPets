@@ -24,12 +24,6 @@ C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\scopedcss\projectbundle\AgendaPets
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets.build.json
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets.development.json
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets\msbuild.AgendaPets.Microsoft.AspNetCore.StaticWebAssets.props
-C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets\msbuild.AgendaPets.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets\msbuild.build.AgendaPets.props
-C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgendaPets.props
-C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgendaPets.props
-C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets.pack.json
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\AgendaPets.csproj.Up2Date
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\AgendaPets.dll
@@ -37,3 +31,11 @@ C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\refint\AgendaPets.dll
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\AgendaPets.pdb
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\AgendaPets.genruntimeconfig.cache
 C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\ref\AgendaPets.dll
+C:\git\AgendaPets\AgendaPets\bin\Debug\net8.0\libman.json
+C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\AgendaPets.sourcelink.json
+C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\git\AgendaPets\AgendaPets\obj\Debug\net8.0\swae.build.ex.cache
